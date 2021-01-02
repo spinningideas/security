@@ -35,4 +35,6 @@ Additionally you should try to rank the severity of the action and determine how
 
 The third step is to determine how to mitigate or counter a threat. This can be aided by a diagram called a threat tree. At the root of the tree is the threat itself, and its leaves are the conditions that must be true for the actor to realize their goal.
 
-For example, under the condition that an adversary makes an illicit payment. The fact that the person uses a stolen credit/debit card is a subcondition. For each of the leaf conditions you must identify potential mitigation strategies. For the payment threat the mitigation is to verify the card using the a reliable verification package. Every path through the threat tree that does not end in a mitigation strategy is a system vulnerability.
+For example, under the condition that an adversary makes an illicit payment. The fact that the person uses a stolen credit/debit card is a subcondition. For each of the leaf conditions you must identify potential mitigation strategies. For the payment threat the mitigation is to verify the card using the a reliable verification package.
+
+Every path through the threat tree that does not end in a mitigation strategy is a system vulnerability that must be acknowledged as a risk with an indicated severity.
