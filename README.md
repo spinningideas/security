@@ -27,7 +27,9 @@ The first step is to model the system either with data or process flow diagrams 
 
 ### Assessing and Ranking Threats
 
-The second step is to understand the potential threats and imagine what a bad actor might do to attack your system. Ask questions such as "How could the actor use an asset to retrieve restricted information, manipulate information within the system, or cause the system to fail or be unusable, or gain additional rights ?". Additionally you should try to rank the severity of the action and determine how damage the actor could do given access to the asset.
+The second step is to understand the potential threats and imagine what a bad actor might do to attack your system. Ask questions such as "What mechanisms could the actor use gain access to an asset and retrieve restricted information, manipulate information within the system, or cause the system to fail or be unusable".
+
+Additionally you should try to rank the severity of the action and determine how much damage the actor could do given access to the asset.
 
 ### Countermeasures and Mitigations
 
